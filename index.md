@@ -8,7 +8,7 @@ Hi, there!
 
 I am open to any field that related to GIS, as we know, everything could be tagged with a spatial and time component with spatial thinking and GIS could help us explain the inequality and regional difference that brought by human behavior and social-economic development, as well as to predict the changing and impact on our life. GIS could be applied to many fields and yield new ideas, especially in the interdisciplianry area, but the core concept, methodology and technology could be the same.
 
-If you have interest in my research, please feel free to contact with me: ![email]geowcz@whu.edu.cn 
+If you have interest in my research, please feel free to contact with me: [email me]geowcz@whu.edu.cn 
 
 
 ## [](#header-2)Education
