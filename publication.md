@@ -22,8 +22,8 @@ This paper dealt with the recognition and simplification of vector-based paralle
 
 
 ### PATENTS
-Lifecycle and Smart Supervision Approach of Land Use based on GIS, with Wei Chen, China Patent ZL 201510599036.0, 2017-05-10.
+**Lifecycle and Smart Supervision Approach of Land Use based on GIS**, China Patent ZL 201510599036.0, 2017-05-10.
 
-The Whole Life Cycle Decision Support System of Construction Land, with Wei Chen, China Computer Software Copyright Registration Certificate. 2016.
+**The Whole Life Cycle Decision Support System of Construction Land**, China Computer Software Copyright Registration Certificate. 2016.
 
-Land Use Comprehensive Management Information System, with Wei Chen, China Computer Software Copyright Registration Certificate. 2014.
+**Land Use Comprehensive Management Information System**, China Computer Software Copyright Registration Certificate. 2014.
