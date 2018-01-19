@@ -135,7 +135,7 @@ If you have interest in my research, please feel free to contact with me: geowcz
 
 **Research Assistant, SWJTU**, Advisor: Prof. Zhu Xu, 9/2009-8/2010
   
-  **1.Hierarchical Synthesis and Delivery Update of Road Network Model (NNSFC)**
+  **1. Hierarchical Synthesis and Delivery Update of Road Network Model (NNSFC)**
   
 - Investigated the definition of parallel sections in the road network, and classified them into 12 types according to their morphology.
 
@@ -145,7 +145,7 @@ If you have interest in my research, please feel free to contact with me: geowcz
 
 - Finished my undergraduate thesis and published an article.
 
-**2.The Design and Development of xsGIS**
+**2. The Design and Development of xsGIS**
 
 - Designed a four-tier framework of a desktop GIS and programmed hierarchical class from geometry, feature, and layer to map in C#.
 
