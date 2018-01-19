@@ -41,10 +41,17 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 ## [](#header-2)Experience
+**Consultant, RCDB, UN-Habitat**, Supervisor: Eduardo Lopez Moreno, 6/2017-9/2017
+* **Wuhan City Prosperity Initiative (Wuhan CPI)** (http://cpi.unhabitat.org/) 
+This program aims to measure and monitor sustainable urban development spatially and comparably for city authorities to identify opportunities and potential areas of intervention from six dimensions: productivity, infrastructure development, quality of life, equity and social inclusion, environmental sustainability, urban governance and legislation.
+**Key achievements**:
+* Interpreted 61 indicators to adapt Chinese context and collected about 85% data.
+* Assessed spatial datasets to support spatial capital model and analyzed spatial statistical indicators from the Atlas of Urban Expansion based on New York University.
+* Presented urban development challenges in Wuhan, the main activities of WLSP and designed the survey questionnaire to improve the understanding of the priority areas of Wuhan accompanying benefits and challenges through professional opinions to address the introduction and objective of the CPI report. 
+* Compared other city indexes to explore advantages and innovations of CPI based on the connections between the CPI, SDGs and the New Urban Agenda. 
+* Assisted the Wuhan team to understand the definition, standardization, and calculation of CPI indicators and spatial indicators technically, revised SDGs indicators metadata, including land consumption rate, land allocated to the street, housing affordability.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ### [](#header-3)Header 3
 
