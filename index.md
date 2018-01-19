@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](another-page).
+Hi, here is my CV, if you have interest, please check it and contact with me: geowcz@whu.edu.cn 
 
 
 ## [](#header-2)Education
