@@ -59,12 +59,10 @@ This program aims to measure and monitor sustainable urban development spatially
 This program focuses on exploring the distributions and interactions between buildings, populations, public facilities, and urban planning to assist the city decision-makers to improve housing affordability and public facility allocation. 
 <dl>
    <dt>Key achievements:</dt>
-   <dd>
-   * Built up data models to analyze the spatial distribution of 286,844 buildings in Wuhan, and identify the unbalanced areas of planning and practical buildings. 
-* Applied spatial data analysis and spatial statistics to explore and visualize trends and relationships between buildings, populations, transportation, and public facilities.
-* Processed and aggregated 14 spatial datasets to extract indicators of density and FAR, tall building, etc., including eliminating topology errors, checking data quality, creating geoprocessing workflows, importing them into database and publishing web services.
-* Integrated data models to the land use platform and participated in the presentation.
-   </dd>
+   <dd>Built up data models to analyze the spatial distribution of 286,844 buildings in Wuhan, and identify the unbalanced areas of planning and practical buildings.   </dd>
+  <dd>Applied spatial data analysis and spatial statistics to explore and visualize trends and relationships between buildings, populations, transportation, and public facilities.  </dd>
+  <dd>Processed and aggregated 14 spatial datasets to extract indicators of density and FAR, tall building, etc., including eliminating topology errors, checking data quality, creating geoprocessing workflows, importing them into database and publishing web services.  </dd>
+  <dd>Integrated data models to the land use platform and participated in the presentation.</dd>
 </dl>
 
 **2. Land Use Integrated Management Information System** (http://tdjg.wlsp.org.cn) 
