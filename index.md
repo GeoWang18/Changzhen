@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Education
+## [](#header-1)Education
 
 *	University of Michigan - Ann Arbor, USA, 2012-2013
 * Joint Training Graduate Student with Wuhan University
