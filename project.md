@@ -1,12 +1,12 @@
 
-## [](#header-2) City Prosperity Initiative (CPI)
+## [](#header-2) 1. City Prosperity Initiative (CPI)
 
 This program aims to measure and monitor sustainable urban development spatially and comparably for city authorities to identify opportunities and potential areas of intervention from six dimensions: productivity, infrastructure development, quality of life, equity and social inclusion, environmental sustainability, urban governance and legislation.
 
 > pic is coming.
 
 
-## [](#header-2) Advanced Spatial Analysis of Urban Buildings 
+## [](#header-2) 2. Advanced Spatial Analysis of Urban Buildings 
 
 This program focuses on exploring the distributions and interactions between buildings, populations, public facilities, and urban planning to assist the city decision-makers to improve housing affordability and public facility allocation.
 Below is one example of the application.
@@ -23,7 +23,7 @@ This novel web-based system aims to provide large-scale data and powerful tools 
 > data source: http://www.wlsp.org.cn/
 
 
-## [](#header-2)One Map of Wuhan Econ Tech. Development Zone 
+## [](#header-2)3. One Map of Wuhan Econ Tech. Development Zone 
 
 The system integrates multi-source data from Wuhan Econ & Tech. Development Zone into one map, and provide technical support for decision-makers to track the changes of approval and illegal land use for housing and road. 
 
@@ -34,7 +34,7 @@ The system integrates multi-source data from Wuhan Econ & Tech. Development Zone
 > data source: http://www.wlsp.org.cn/
 
 
-## [](#header-2)Spatial Study of Religion 
+## [](#header-2)4. Spatial Study of Religion 
 This platform integrates various data from economy, population and religion to provide tools for researchers.
 
 Data:
