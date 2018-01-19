@@ -6,11 +6,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## [](#header-1)Education
+## [](#header-2)Education
 University of Michigan - Ann Arbor, USA, 2012-2013
 * Joint Training Graduate Student with Wuhan University
 
@@ -20,15 +17,28 @@ Wuhan University, LIESMARS, China, 2010-2013
 Southwest Jiaotong University (SWJTU), Chengdu, China, 2006-2010                              
 * B.S. in Geographic Information System (GPA: 3.64/4.0; Ranking: 1/28)                
 
-# [](#header-1)Research Interests
+## [](#header-2)Research Interests
 
 * Big Data Analytics and Spatial Data Mining
+
 * GIS Application in Urban Studies, Land Use, Economy and Public Health
+
 * Geographic Information Science and Systems 
 
-# [](#header-1)Professional Skills
+## [](#header-2)Professional Skills
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*	Strong programming skills in Java, Flex and Python.
+
+*	Strong background in Spatial Analysis, ESDA and Spatial Statistics.
+
+*	Excellent experience in GIS development and application.
+
+*	Rich experience in ArcGIS Desktop/Engine/Server, Alteryx, OpenGeoDa and ERDAS.
+
+*	Solid experience in Data Management with SQL Server and PostgreSQL/PostGIS.
+
+*	Rich knowledge of Open Source Software - OpenLayers, GeoServer, and uDig.
+
 
 ## [](#header-2)Header 2
 
