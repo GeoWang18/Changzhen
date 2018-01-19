@@ -18,13 +18,6 @@ This novel web-based system aims to provide large-scale data and powerful tools 
 
 $$data source: http://www.wlsp.org.cn/$$
 
-![](http://www.wlsp.org.cn/UploadFiles/Images//admin/201412/1.jpg.axd)
-data source: http://www.wlsp.org.cn/
-![](http://www.wlsp.org.cn/UploadFiles/Images//admin/201412/3.jpg.axd)
-data source: http://www.wlsp.org.cn/
-![](http://www.wlsp.org.cn/UploadFiles/Images//admin/201412/2.jpg.axd)
-data source: http://www.wlsp.org.cn/
-
 ### One Map of Wuhan Econ Tech. Development Zone 
 
 The system integrates multi-source data from Wuhan Econ & Tech. Development Zone into one map, and provide technical support for decision-makers to track the changes of approval and illegal land use for housing and road. 
