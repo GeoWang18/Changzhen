@@ -34,16 +34,16 @@ This platform integrates various data from economy, population and religion to p
 > The number of Christianity and Buddhism sites in Mainland China, 2004
 
 ![](https://github.com/SmartWang18/Changzhen/blob/master/img/GlobalMoranI.png)
-> whether Christianity affected Buddhism or not
+> Apply Global Moran's I (Double variables) to detect whether Christianity affected Buddhism or not
 
 ![](https://github.com/SmartWang18/Changzhen/blob/master/img/GlobalMoran2.png)
-> whether Buddhism affected Christianity or not
+> Apply Global Moran's I (Double variables) to detect whether Buddhism affected Christianity or not
 
 ![](https://github.com/SmartWang18/Changzhen/blob/master/img/LocalGi.png)
-> Local Gi used for Buddhism to detect hot spots in Zhejiang province
+> Apply Local Gi to detect hot spots of Buddhism in Zhejiang province
 
 ![](https://github.com/SmartWang18/Changzhen/blob/master/img/LocalGi2.png)
-> Local Gi used for Christianity to detect hot spots in Zhejiang province
+> Apply Local Gi to detect hot spots of Christianity in Zhejiang province
 
 
 
