@@ -171,7 +171,7 @@ If you have interest in my research, please feel free to contact with me: geowcz
 
 -  Excellent staff and Meritorious Newcomer of WLSP, 2015-2016
 
--  Second Award of **National** Land Resource Science and Technology**(for top 1%)**, 2016 
+-  Second Award of **National** Land Resource Science and Technology **(for top 1%)**, 2016 
 
 - Second Award of Hubei Urban and Rural Planning and Design Excellence, 2015 
 
