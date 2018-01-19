@@ -14,6 +14,7 @@ Below is one example of the application.
 ### Land Use Integrated Management Information System 
 
 This novel web-based system aims to provide large-scale data and powerful tools for urban planners and city manager to analyze and visualize land use and urban planning issues. Currently, it has 148 layers, 12 tools and 100 active group users from 40 institutions.
+
 ![](http://www.wlsp.org.cn/UploadFiles/Images//admin/201604/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE.jpg.axd)
 > data source: http://www.wlsp.org.cn/
 
