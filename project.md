@@ -15,7 +15,9 @@ Below is one example of the application.
 
 This novel web-based system aims to provide large-scale data and powerful tools for urban planners and city manager to analyze and visualize land use and urban planning issues. Currently, it has 148 layers, 12 tools and 100 active group users from 40 institutions.
 ![](http://www.wlsp.org.cn/UploadFiles/Images//admin/201604/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE.jpg.axd)
-data source: http://www.wlsp.org.cn/
+
+$$data source: http://www.wlsp.org.cn/$$
+
 ![](http://www.wlsp.org.cn/UploadFiles/Images//admin/201412/1.jpg.axd)
 data source: http://www.wlsp.org.cn/
 ![](http://www.wlsp.org.cn/UploadFiles/Images//admin/201412/3.jpg.axd)
@@ -35,7 +37,7 @@ data source: http://www.wlsp.org.cn/
 This platform integrates various data from economy, population and religion to provide tools for researchers.
 
 ![](https://github.com/SmartWang18/Changzhen/blob/master/img/ChristianityBuddhism.png)
-The number of Christianity and Buddhism sites in Mainland China, 2004
+$$The number of Christianity and Buddhism sites in Mainland China, 2004$$
 
 ![](https://github.com/SmartWang18/Changzhen/blob/master/img/GlobalMoranI.png)
 whether Christianity affected Buddhism or not
