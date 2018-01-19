@@ -15,7 +15,7 @@ Below is one example of the application.
 > The relationship between actual FAR and FAR baseline
 
 
-## [](#header-2) Land Use Integrated Management Information System 
+## [](#header-2) 3. Land Use Integrated Management Information System 
 
 This novel web-based system aims to provide large-scale data and powerful tools for urban planners and city manager to analyze and visualize land use and urban planning issues. Currently, it has 148 layers, 12 tools and 100 active group users from 40 institutions.
 
@@ -23,7 +23,7 @@ This novel web-based system aims to provide large-scale data and powerful tools 
 > data source: http://www.wlsp.org.cn/
 
 
-## [](#header-2)3. One Map of Wuhan Econ Tech. Development Zone 
+## [](#header-2) 4. One Map of Wuhan Econ Tech. Development Zone 
 
 The system integrates multi-source data from Wuhan Econ & Tech. Development Zone into one map, and provide technical support for decision-makers to track the changes of approval and illegal land use for housing and road. 
 
@@ -34,7 +34,7 @@ The system integrates multi-source data from Wuhan Econ & Tech. Development Zone
 > data source: http://www.wlsp.org.cn/
 
 
-## [](#header-2)4. Spatial Study of Religion 
+## [](#header-2) 5. Spatial Study of Religion 
 This platform integrates various data from economy, population and religion to provide tools for researchers.
 
 Data:
