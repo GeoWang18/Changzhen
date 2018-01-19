@@ -34,6 +34,21 @@ data source: http://www.wlsp.org.cn/
 ### Spatial Study of Religion 
 This platform integrates various data from economy, population and religion to provide tools for researchers.
 
+![](https://github.com/SmartWang18/Changzhen/blob/master/img/ChristianityBuddhism.png)
+The number of Christianity and Buddhism sites in Mainland China, 2004
+
+![](https://github.com/SmartWang18/Changzhen/blob/master/img/GlobalMoranI.png)
+whether Christianity affected Buddhism or not
+
+![](https://github.com/SmartWang18/Changzhen/blob/master/img/GlobalMoran2.png)
+whether Buddhism affected Christianity or not
+
+![](https://github.com/SmartWang18/Changzhen/blob/master/img/LocalGi.png)
+Local Gi used for Buddhism to detect hot spots in Zhejiang province
+
+![](https://github.com/SmartWang18/Changzhen/blob/master/img/LocalGi2.png)
+Local Gi used for Christianity to detect hot spots in Zhejiang province
+
 
 
 
