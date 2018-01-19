@@ -8,7 +8,9 @@ Shuming Bao, Changzhen Wang, Miao Shui. **A Spatial Study of Religion with Spati
 
 Sai Huang, Yifeng Zhang, Xiongwu Fu, Changzhen Wang. **Research on Integrated Information Management System of Land Use at Big Data Age [J]**. 17th Annual Meeting of China Association for Science and Technology, 2015.
 
-> **Abstract:** 以物联网、移动互联网、云计算和大数据为代表的新一代信息技术的迅速发展, 深刻地影响着城乡治理的方方面面，对土地和规划信息化管理工作也提出了更高要求。本文从土地生命周期业务管理的角度出发，以武汉市土地利用综合管理信息系统为例，提出了构建土地和规划管理大数据平台的基本思路，重点介绍了土地管理和城市规划数据获取的基本手段、平台体系建设、公众参与和监督。该平台将为城市土地资产经营、项目实施、城市用地空间布局和功能结构优化提供强有力的支撑
+> **Abstract:** 
+The new generation of information technology, represented by Internet of things, mobile internet, cloud computing and big data, has been developed rapidly, it has a great impact on various aspects of urban and rural governance, it also brings big challenge into land use and urban planning information management. From the perspective of life cycle management of land, this paper takes Wuhan Land Use Integrated Management Information System as an example, to put forward the basic ideas on building a big data platform of land use and urban planning. It mainly introduced the basic means of land management and urban planning data acquisition, construction of platform, public participation and supervision. The platform could provide a strong support for urban land assets management, project implementation, space structure optimization of urban land and function.
+以物联网、移动互联网、云计算和大数据为代表的新一代信息技术的迅速发展, 深刻地影响着城乡治理的方方面面，对土地和规划信息化管理工作也提出了更高要求。本文从土地生命周期业务管理的角度出发，以武汉市土地利用综合管理信息系统为例，提出了构建土地和规划管理大数据平台的基本思路，重点介绍了土地管理和城市规划数据获取的基本手段、平台体系建设、公众参与和监督。该平台将为城市土地资产经营、项目实施、城市用地空间布局和功能结构优化提供强有力的支撑
 [Read more](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2015&filename=DIDD201505014026&v=MjYxOTlLdWhkaG5qOThUbmpxcXhkRWVNT1VLcmlmWnU1dkZ5anRVN2JLS0Z3VUlTVFBhckc0SDlUTXFvOUVZT3NOQ2hO)
 
 
