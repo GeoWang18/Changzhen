@@ -9,11 +9,13 @@ Shuming Bao, Changzhen Wang, Miao Shui. A Spatial Study of Religion with Spatial
 Sai Huang, Yifeng Zhang, Xiongwu Fu, Changzhen Wang. Research on Integrated Information Management System of Land Use at Big Data Age [J]. 17th Annual Meeting of China Association for Science and Technology, 2015.
 
 > **Abstract:** 以物联网、移动互联网、云计算和大数据为代表的新一代信息技术的迅速发展, 深刻地影响着城乡治理的方方面面，对土地和规划信息化管理工作也提出了更高要求。本文从土地生命周期业务管理的角度出发，以武汉市土地利用综合管理信息系统为例，提出了构建土地和规划管理大数据平台的基本思路，重点介绍了土地管理和城市规划数据获取的基本手段、平台体系建设、公众参与和监督。该平台将为城市土地资产经营、项目实施、城市用地空间布局和功能结构优化提供强有力的支撑。
+[Read more](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2015&filename=DIDD201505014026&v=MjYxOTlLdWhkaG5qOThUbmpxcXhkRWVNT1VLcmlmWnU1dkZ5anRVN2JLS0Z3VUlTVFBhckc0SDlUTXFvOUVZT3NOQ2hO)
 
 
 Changzhen Wang, Zhu Xu, Muzi Li. Primary Study on Recognition and Simplification of Parallel Sections in Road Networks [J]. The science of Surveying & Mapping, 2012, 37(1):192-191.
 
 > **Abstract:** 道路网模式中的平行路段作为一种局部模式,其识别与简化是地图综合研究的重要内容。本文在分析平行路段产生的原因和常见形态后,给出一种利于简化的平行路段分类方法,并提出基于平头缓冲区搜寻备选平行路段进而利用平行性测度判断路段是否平行的方法。在此基础上,针对3类平行路段分别提出对应的几何化简与连通关系简化方法。实验结果表明,该识别与简化方法能够对路网模式中的平行路段进行有效地综合,具有一定的实用价值,对进一步研究具有参考价值。
+[Read more](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2012&filename=CHKD201201067&v=MjE2NTh6TkppWEFhckc0SDlQTXJvOURZNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZlp1ZG1GeUhnVXI=)
 
 
 ### PATENTS
