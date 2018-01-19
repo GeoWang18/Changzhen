@@ -87,7 +87,7 @@ The system integrates multi-source data from Wuhan Econ & Tech. Development Zone
 * Developed tools to execute spatial operations for automatic visualization and tabulation of statistics, tested and maintained the system, checked data security and fixed bugs.
 
 **Research Assistant, University of Michigan**, Advisor: Prof. Shuming Bao, 2/2012-8/2013
----
+
 **1. Spatial Study of Religion** (http://chinadataonline.org/religionclient/).
 
 * Researched the methodology, data, technology, and framework with spatial thinking and intelligent analysis for Spatial Study of Religion. 
@@ -97,7 +97,6 @@ The system integrates multi-source data from Wuhan Econ & Tech. Development Zone
 * Integrated Moran’s I, Geary’s C, Gi, and Moran scatter plot with spatial weight matrix and hypothesis test into the platform and dynamically visualize the computation results with various map and charts. 
 * Analyzed interactions between Christianity and Buddhism and detected hot spots.
 * Assisted other team members with GIS and spatial analysis.
----
 
 **Research Assistant, Wuhan University**, Advisor: Prof. Xinyan Zhu, 9/2010-12/2013
 
