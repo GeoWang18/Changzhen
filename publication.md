@@ -1,4 +1,5 @@
-### PUBLICATIONS
+
+## [](#header-2)Publications
 Shuming Bao, Changzhen Wang, Miao Shui. **A Spatial Study of Religion with Spatial Religion Explorer [C]**. International Conference on Geoinformatics. IEEE, 2014:1-8.
 
 > **Abstract:** Scholars, policy makers, and journalists are requesting comprehensive information about the geographic locations, religious services, and socio-economic environments of Chinese religions. As an effort to promote international collaborations on spatial studies of Chinese religions and society, a spatial information network for the studies of Christianity in China has been established by a group of scholars from several institutions in the U.S. and China. The objectives of the project include: (1) to establish a centralized information infrastructure; (2) to provide effective tools and technical support for interested users through spatial intelligence information technology; (3) to create an online research forum designed to promote information sharing and improve understanding of Christianity in China; and (4) to render comprehensive information about teaching, learning, and training on the studies of Chinese Christianity. This paper will present some results from the project, including an online spatial information platform, which will integrate data, methodology and research references for the studies of Chinese Christianity. This paper will discuss the information structure, methodology, and technology applied in this system. The system allows easy access to comprehensive demographic, economic, and religious information in China as well as some online tools for spatial data analysis. It will demonstrate how space-time data of different formats and sources can be integrated, visualized, and reported in a web based system for religious studies. Some case studies for Chinese religions and future directions will be discussed. 
@@ -19,7 +20,7 @@ This paper dealt with the recognition and simplification of vector-based paralle
 [Read more](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2012&filename=CHKD201201067&v=MjE2NTh6TkppWEFhckc0SDlQTXJvOURZNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZlp1ZG1GeUhnVXI=)
 
 
-### PATENTS
+## [](#header-2)Patents
 **Lifecycle and Smart Supervision Approach of Land Use based on GIS**, China Patent ZL 201510599036.0, 2017-05-10.
 
 **The Whole Life Cycle Decision Support System of Construction Land**, China Computer Software Copyright Registration Certificate. 2016.
