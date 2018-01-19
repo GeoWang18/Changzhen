@@ -5,5 +5,7 @@ google_analytics:
 theme: jekyll-theme-cayman
 github:
   home_url: https://smartwang18.github.io/Changzhen/
-  project_url: https://smartwang18.github.io/Changzhen/projects
-  cv_url: https://smartwang18.github.io/Changzhen/publication
+  project_url: https://smartwang18.github.io/Changzhen/project
+  publication_url: https://smartwang18.github.io/Changzhen/publication
+  award_url:https://smartwang18.github.io/Changzhen/award
+  
