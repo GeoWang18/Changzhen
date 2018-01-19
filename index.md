@@ -42,10 +42,15 @@ layout: default
 **Consultant, RCDB, UN-Habitat**, Supervisor: Eduardo Lopez Moreno, 6/2017-9/2017     
 
 **Wuhan City Prosperity Initiative (Wuhan CPI)** [http://cpi.unhabitat.org/](http://cpi.unhabitat.org/ "http://cpi.unhabitat.org/")
+
 - Interpreted 61 indicators to adapt Chinese context and collected about 85% data.
+
 -  Assessed spatial datasets to support spatial capital model and analyzed spatial statistical indicators from the Atlas of Urban Expansion based on New York University.
+
 -  Presented urban development challenges in Wuhan, the main activities of WLSP and designed the survey questionnaire to improve the understanding of the priority areas of Wuhan accompanying benefits and challenges through professional opinions to address the introduction and objective of the CPI report. 
+
 - Compared other city indexes to explore advantages and innovations of CPI based on the connections between the CPI, SDGs and the New Urban Agenda. 
+
 - Assisted the Wuhan team to understand the definition, standardization, and calculation of CPI indicators and spatial indicators technically, revised SDGs indicators metadata, including land consumption rate, land allocated to the street, housing affordability.
 
 **Development Engineer, WLSP, China**, 5/2014-6/2017
@@ -53,32 +58,50 @@ layout: default
 **1. Advanced Spatial Analysis of Urban Buildings:** [http://tdjg.wlsp.org.cn](http://tdjg.wlsp.org.cn "http://tdjg.wlsp.org.cn")
    
 - Built up data models to analyze the spatial distribution of 286,844 buildings in Wuhan, and identify the unbalanced areas of planning and practical buildings. 
+
 - Applied spatial data analysis and spatial statistics to explore and visualize trends and relationships between buildings, populations, transportation, and public facilities.
+
 - Processed and aggregated 14 spatial datasets to extract indicators of density and FAR, tall building, etc., including eliminating topology errors, checking data quality, creating geoprocessing workflows, importing them into database and publishing web services.
+
 - Integrated data models to the land use platform and participated in the presentation.
 
  **2. Land Use Integrated Management Information System:** [http://tdjg.wlsp.org.cn](http://tdjg.wlsp.org.cn "http://tdjg.wlsp.org.cn")
  
 - Created a Five-Year Plan to upgrade the framework and redesigned its architecture and database distribution with other 10 sub-systems to boost the performance.
-- Explored the whole life cycle of land management and built up models to monitor parcel status from site selection to building authorization with use right transfer. Processed data from cadaster, urban planning, population, housing building, road and transportation, and other geographic information, including data editing, topology elimination, format conversion, coordinate transformation, and projection.
+
+- Explored the whole life cycle of land management and built up models to monitor parcel status from site selection to building authorization with use right transfer. 
+
+- Processed data from cadaster, urban planning, population, housing building, road and transportation, and other geographic information, including data editing, topology elimination, format conversion, coordinate transformation, and projection.
+
 - Programmed tools to gather open data and display, query and visualize it into maps.
 
 **3. One Map of Wuhan Econ Tech. Development Zone:** [http://119.97.209.18/jkyzt/](http://119.97.209.18/jkyzt/ "http://119.97.209.18/jkyzt/")
 - Worked on system design, wrote technical documents and presented progress.
+
 - Processed data and managed database for publishing various web services.
+
 - Studied algorithms to monitor how many approval parcels were supplied and used.
-- Developed tools to execute spatial operations for automatic visualization and tabulation of statistics, tested and maintained the system, checked data security and fixed bugs.
+
+- Developed tools to execute spatial operations for automatic visualization and tabulation of statistics
+
+- Tested and maintained the system, checked data security and fixed bugs.
 
 **Research Assistant, University of Michigan**, Advisor: Prof. Shuming Bao, 2/2012-8/2013
 
    **1. Spatial Study of Religion:** [http://chinadataonline.org/religionclient/](http://chinadataonline.org/religionclient/ "http://chinadataonline.org/religionclient/")
    
-- Researched the methodology, data, technology, and framework with spatial thinking and intelligent analysis for Spatial Study of Religion. 
+- Researched the methodology, data, technology, and framework with spatial thinking and intelligent analysis for Spatial Study of Religion.  
+
 - Classified 72, 968 officially religious sites to Christianity, Buddhism, Islamism, and Taoism on the province, prefecture, county, and township level per year, and integrated more than 100 variables from economic census and population census in China. 
+
 - Imported data into PostgreSQL/PostGIS and published web services.
+
 - Designed and developed spatial explorer of religion with functions of various reports, quick search, location analysis, trend analysis, graphics analysis, spatial statistics, theme map rendering and multi-format data export. 
+
 - Integrated Moran’s I, Geary’s C, Gi, and Moran scatter plot with spatial weight matrix and hypothesis test into the platform and dynamically visualize the computation results with various map and charts. 
+
 - Analyzed interactions between Christianity and Buddhism and detected hot spots.
+
 - Assisted other team members with GIS and spatial analysis.
 
 **Research Assistant, Wuhan University,** Advisor: Prof. Xinyan Zhu, 9/2010-12/2013
@@ -86,18 +109,24 @@ layout: default
  **1. Police Geographic Information System**
  
 - Programmed query operations of criminal data to highlight and interact with the map.
+
 - Developed heat map and charts to display criminal data and export reports.
 
 **2. Key Technology of Position Sensor Network and Holographic Position Map**
 
 - Investigated 3D coordinate transformation with the matrix, from camera coordinate system, projected coordinate system to screen coordinate system and vice versa. 
+
 - Researched the deformation of the panoramic map and render model by using triangle units, image pyramid, and scene switch algorithm.
+
 - Acquired image and deep information by navigational links to render the scene.
 
 **3. China Geo-Explorer:** [http://chinageoexplorer.org/cge/index.html](http://chinageoexplorer.org/cge/index.html "http://chinageoexplorer.org/cge/index.html")
-- Processed and aggregated grid, population and economic census data from province level to township level to extract parameters.   
+- Processed and aggregated grid, population and economic census data from province level to township level to extract parameters. 
+
 - Programmed tools to generate and parse XML files to call variables and parameters.
+
 - Integrated with Tianditu, OpenStreetMap, and WorldMap from Harvard University.
+
 - Programmed the GeoMap library to support China Geo-Explorer.
 
 **Research Assistant, SWJTU**, Advisor: Prof. Zhu Xu, 9/2009-8/2010
@@ -105,13 +134,17 @@ layout: default
   **1.Hierarchical Synthesis and Delivery Update of Road Network Model (NNSFC)**
   
 - Investigated the definition of parallel sections in the road network, and classified them into 12 types according to their morphology.
+
 - Proposed an algorithm to identify and simplify parallel sections.
+
 - Prepared a road network to validate the algorithm in ArcGIS Engine and C#. 
+
 - Finished my undergraduate thesis and published an article.
 
 **2.The Design and Development of xsGIS**
 
 - Designed a four-tier framework of a desktop GIS and programmed hierarchical class from geometry, feature, and layer to map in C#.
+
 - Developed tools to add, remove, create, edit, navigate, query and render GIS data.
 
 ## [](#header-2)PUBLICATIONS 
@@ -132,18 +165,18 @@ layout: default
 
 ## [](#header-2)HONORS   
 
->  Excellent staff and Meritorious Newcomer of WLSP, 2015-2016
+-  Excellent staff and Meritorious Newcomer of WLSP, 2015-2016
 
->  Second Award of **National** Land Resource Science and Technology**(for top 1%)**, 2016 
+-  Second Award of **National** Land Resource Science and Technology**(for top 1%)**, 2016 
 
-> Second Award of Hubei Urban and Rural Planning and Design Excellence, 2015 
+- Second Award of Hubei Urban and Rural Planning and Design Excellence, 2015 
 
->  **First** Award of Excellent Graduate Student in Wuhan University, Two Times, 2010-2011 
+-  **First** Award of Excellent Graduate Student in Wuhan University, Two Times, 2010-2011 
 
->  Exam Exempted Postgraduate Student of Wuhan University **(for top 1%)**, 2010
+-  Exam Exempted Postgraduate Student of Wuhan University **(for top 1%)**, 2010
 
->  Excellent Undergraduate Student of Southwest Jiaotong University **(for top 1%)**, 2010
+-  Excellent Undergraduate Student of Southwest Jiaotong University **(for top 1%)**, 2010
 
->  National Endeavor Scholarship, Three Times **(for top 1%)**, 2007-2010
+-  National Endeavor Scholarship, Three Times **(for top 1%)**, 2007-2010
 
->  Special Grade Scholarship, One time, First Prize Scholarship, Six Times, 2006-2010
+-  Special Grade Scholarship, One time, First Prize Scholarship, Six Times, 2006-2010
