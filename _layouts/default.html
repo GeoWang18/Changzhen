@@ -14,13 +14,13 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
         <a href="{{ site.github.home_url }}" class="btn">Home</a>
         <a href="{{ site.github.project_url }}" class="btn">Project</a>
         <a href="{{ site.github.publication_url }}" class="btn">Publication</a>
         <a href="{{ site.github.award_url }}" class="btn">Award</a>
+      {% endif %}
+      {% if site.show_downloads %}
+       
       {% endif %}
     </section>
 
