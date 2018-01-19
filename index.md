@@ -12,7 +12,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # [](#header-1)Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*	University of Michigan - Ann Arbor, USA, 2012-2013
+* Joint Training Graduate Student with Wuhan University
+* Wuhan University, LIESMARS, China, 2010-2013 
+* M.Eng. in Cartography and Geographic Information Engineering (GPA: 8.41/10; Top 5%)
+* Southwest Jiaotong University (SWJTU), Chengdu, China, 2006-2010                              
+* B.S. in Geographic Information System (GPA: 3.64/4.0; Ranking: 1/28)                
+
 
 # [](#header-1)Research Interests
 
