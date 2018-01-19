@@ -45,6 +45,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 * **Wuhan City Prosperity Initiative (Wuhan CPI)** (http://cpi.unhabitat.org/) 
 
 This program aims to measure and monitor sustainable urban development spatially and comparably for city authorities to identify opportunities and potential areas of intervention from six dimensions: productivity, infrastructure development, quality of life, equity and social inclusion, environmental sustainability, urban governance and legislation.
+
 **Key achievements**:
 * Interpreted 61 indicators to adapt Chinese context and collected about 85% data.
 * Assessed spatial datasets to support spatial capital model and analyzed spatial statistical indicators from the Atlas of Urban Expansion based on New York University.
