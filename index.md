@@ -40,9 +40,9 @@ layout: default
 
 ## [](#header-2)Experience
 **Consultant, RCDB, UN-Habitat**, Supervisor: Eduardo Lopez Moreno, 6/2017-9/2017
-- **Wuhan City Prosperity Initiative (Wuhan CPI)** (http://cpi.unhabitat.org/) 
+**1.Wuhan City Prosperity Initiative (Wuhan CPI)** (http://cpi.unhabitat.org/) 
 This program aims to measure and monitor sustainable urban development spatially and comparably for city authorities to identify opportunities and potential areas of intervention from six dimensions: productivity, infrastructure development, quality of life, equity and social inclusion, environmental sustainability, urban governance and legislation. 
-- **Key achievements**:
+-**Key achievements**:
   - Interpreted 61 indicators to adapt Chinese context and collected about 85% data.
   - Assessed spatial datasets to support spatial capital model and analyzed spatial statistical indicators from the Atlas of Urban Expansion based on New York University.
   - Presented urban development challenges in Wuhan, the main activities of WLSP and designed the survey questionnaire to improve the understanding of the priority areas of Wuhan accompanying benefits and challenges through professional opinions to address the introduction and objective of the CPI report. 
