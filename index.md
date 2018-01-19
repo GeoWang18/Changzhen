@@ -94,7 +94,7 @@ layout: default
 - Researched the deformation of the panoramic map and render model by using triangle units, image pyramid, and scene switch algorithm.
 - Acquired image and deep information by navigational links to render the scene.
 
-**3. China Geo-Explorer:**[http://chinageoexplorer.org/cge/index.html](http://chinageoexplorer.org/cge/index.html "http://chinageoexplorer.org/cge/index.html")
+**3. China Geo-Explorer:** [http://chinageoexplorer.org/cge/index.html](http://chinageoexplorer.org/cge/index.html "http://chinageoexplorer.org/cge/index.html")
 - Processed and aggregated grid, population and economic census data from province level to township level to extract parameters.   
 - Programmed tools to generate and parse XML files to call variables and parameters.
 - Integrated with Tianditu, OpenStreetMap, and WorldMap from Harvard University.
@@ -102,14 +102,14 @@ layout: default
 
 **Research Assistant, SWJTU**, Advisor: Prof. Zhu Xu, 9/2009-8/2010
   
-  **1. Hierarchical Synthesis and Delivery Update of Road Network Model (NNSFC)**
+  **1.Hierarchical Synthesis and Delivery Update of Road Network Model (NNSFC)**
   
 - Investigated the definition of parallel sections in the road network, and classified them into 12 types according to their morphology.
 - Proposed an algorithm to identify and simplify parallel sections.
 - Prepared a road network to validate the algorithm in ArcGIS Engine and C#. 
 - Finished my undergraduate thesis and published an article.
 
-**2. The Design and Development of xsGIS**
+**2.The Design and Development of xsGIS**
 
 - Designed a four-tier framework of a desktop GIS and programmed hierarchical class from geometry, feature, and layer to map in C#.
 - Developed tools to add, remove, create, edit, navigate, query and render GIS data.
