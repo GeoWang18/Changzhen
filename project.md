@@ -9,4 +9,4 @@ This program aims to measure and monitor sustainable urban development spatially
 This program focuses on exploring the distributions and interactions between buildings, populations, public facilities, and urban planning to assist the city decision-makers to improve housing affordability and public facility allocation.
 Below is one example of the application.
 
-![](https://github.com/SmartWang18/Changzhen/blob/master/img/building.png)
+![](https://github.com/SmartWang18/Changzhen/blob/master/img/buildings.png)
