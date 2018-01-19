@@ -5,7 +5,6 @@ Shuming Bao, Changzhen Wang, Miao Shui. **A Spatial Study of Religion with Spati
 [Read more](https://www.researchgate.net/publication/287051698_Spatial_study_of_religion_with_spatial_religion_explorer) 
 
 
-
 Sai Huang, Yifeng Zhang, Xiongwu Fu, Changzhen Wang. **Research on Integrated Information Management System of Land Use at Big Data Age [J]**. 17th Annual Meeting of China Association for Science and Technology, 2015.
 
 > **Abstract:** 
@@ -23,8 +22,8 @@ This paper dealt with the recognition and simplification of vector-based paralle
 
 
 ### PATENTS
-- Lifecycle and Smart Supervision Approach of Land Use based on GIS, with Wei Chen, China Patent ZL 201510599036.0, 2017-05-10.
+Lifecycle and Smart Supervision Approach of Land Use based on GIS, with Wei Chen, China Patent ZL 201510599036.0, 2017-05-10.
 
-- The Whole Life Cycle Decision Support System of Construction Land, with Wei Chen, China Computer Software Copyright Registration Certificate. 2016.
+The Whole Life Cycle Decision Support System of Construction Land, with Wei Chen, China Computer Software Copyright Registration Certificate. 2016.
 
-- Land Use Comprehensive Management Information System, with Wei Chen, China Computer Software Copyright Registration Certificate. 2014.
+Land Use Comprehensive Management Information System, with Wei Chen, China Computer Software Copyright Registration Certificate. 2014.
