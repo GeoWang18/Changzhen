@@ -20,11 +20,11 @@ Wuhan University, LIESMARS, China, 2010-2013
 Southwest Jiaotong University (SWJTU), Chengdu, China, 2006-2010                              
 * B.S. in Geographic Information System (GPA: 3.64/4.0; Ranking: 1/28)                
 
-
 # [](#header-1)Research Interests
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+* Big Data Analytics and Spatial Data Mining
+* GIS Application in Urban Studies, Land Use, Economy and Public Health
+* Geographic Information Science and Systems 
 
 # [](#header-1)Professional Skills
 
