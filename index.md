@@ -57,7 +57,7 @@ This program aims to measure and monitor sustainable urban development spatially
 
 **Development Engineer, WLSP, China**，5/2014-6/2017
 
-**1. Advanced Spatial Analysis of Urban Buildings** (http://tdjg.wlsp.org.cn)
+**1.Advanced Spatial Analysis of Urban Buildings** (http://tdjg.wlsp.org.cn)
    
 This program focuses on exploring the distributions and interactions between buildings, populations, public facilities, and urban planning to assist the city decision-makers to improve housing affordability and public facility allocation. 
 
