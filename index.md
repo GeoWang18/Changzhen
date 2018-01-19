@@ -37,10 +37,11 @@ layout: default
 
 *	Rich knowledge of Open Source Software - OpenLayers, GeoServer, and uDig.
 
+## [](#header-2)Experience
 
-##EXPERIENCE
-**Consultant, RCDB, UN-Habitat**, Supervisor: Eduardo Lopez Moreno, 6/2017-9/2017      
-  ** Wuhan City Prosperity Initiative (Wuhan CPI)** [CPI](http://cpi.unhabitat.org/ "CPI")
+**Consultant, RCDB, UN-Habitat**, Supervisor: Eduardo Lopez Moreno, 6/2017-9/2017     
+
+ **Wuhan City Prosperity Initiative (Wuhan CPI)** [http://cpi.unhabitat.org/](http://cpi.unhabitat.org/ "http://cpi.unhabitat.org/")
 - Interpreted 61 indicators to adapt Chinese context and collected about 85% data.
 -  Assessed spatial datasets to support spatial capital model and analyzed spatial statistical indicators from the Atlas of Urban Expansion based on New York University.
 -  Presented urban development challenges in Wuhan, the main activities of WLSP and designed the survey questionnaire to improve the understanding of the priority areas of Wuhan accompanying benefits and challenges through professional opinions to address the introduction and objective of the CPI report. 
