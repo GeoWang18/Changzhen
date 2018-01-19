@@ -16,7 +16,9 @@ The new generation of information technology, represented by Internet of things,
 
 Changzhen Wang, Zhu Xu, Muzi Li. **Primary Study on Recognition and Simplification of Parallel Sections in Road Networks [J]**. The science of Surveying & Mapping, 2012, 37(1):192-191.
 
-> **Abstract:** 道路网模式中的平行路段作为一种局部模式,其识别与简化是地图综合研究的重要内容。本文在分析平行路段产生的原因和常见形态后,给出一种利于简化的平行路段分类方法,并提出基于平头缓冲区搜寻备选平行路段进而利用平行性测度判断路段是否平行的方法。在此基础上,针对3类平行路段分别提出对应的几何化简与连通关系简化方法。实验结果表明,该识别与简化方法能够对路网模式中的平行路段进行有效地综合,具有一定的实用价值,对进一步研究具有参考价值。
+> **Abstract:** 
+This paper dealt with the recognition and simplification of vector-based parallel sections,which are one of the local patterns in road networks and play an important role in map generalization.The first step was to analyze the causes of parallel roads and their common forms.According to the intersections,the parallel sections were divided into three types.Using the definition and classification,the following step was the identification of parallel sections,which is based on flat buffer and the nearest distance.Then,centerlines between parallel sections were extracted and connectivity was also taken into account.Finally,an experimental system of parallel sections' generalization was developed on the basis of ArcGIS Engine components.The results showed that the proposed method was capable of identifying parallel sections in road network.Suggestions for further research were also given.
+道路网模式中的平行路段作为一种局部模式,其识别与简化是地图综合研究的重要内容。本文在分析平行路段产生的原因和常见形态后,给出一种利于简化的平行路段分类方法,并提出基于平头缓冲区搜寻备选平行路段进而利用平行性测度判断路段是否平行的方法。在此基础上,针对3类平行路段分别提出对应的几何化简与连通关系简化方法。实验结果表明,该识别与简化方法能够对路网模式中的平行路段进行有效地综合,具有一定的实用价值,对进一步研究具有参考价值。
 [Read more](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2012&filename=CHKD201201067&v=MjE2NTh6TkppWEFhckc0SDlQTXJvOURZNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZlp1ZG1GeUhnVXI=)
 
 
