@@ -40,18 +40,24 @@ layout: default
 
 ## [](#header-2)Experience
 **Consultant, RCDB, UN-Habitat**, Supervisor: Eduardo Lopez Moreno, 6/2017-9/2017
+
 **1.Wuhan City Prosperity Initiative (Wuhan CPI)** (http://cpi.unhabitat.org/) 
+
 This program aims to measure and monitor sustainable urban development spatially and comparably for city authorities to identify opportunities and potential areas of intervention from six dimensions: productivity, infrastructure development, quality of life, equity and social inclusion, environmental sustainability, urban governance and legislation. 
--**Key achievements**:
+**Key achievements**:
   - Interpreted 61 indicators to adapt Chinese context and collected about 85% data.
   - Assessed spatial datasets to support spatial capital model and analyzed spatial statistical indicators from the Atlas of Urban Expansion based on New York University.
   - Presented urban development challenges in Wuhan, the main activities of WLSP and designed the survey questionnaire to improve the understanding of the priority areas of Wuhan accompanying benefits and challenges through professional opinions to address the introduction and objective of the CPI report. 
   - Compared other city indexes to explore advantages and innovations of CPI based on the connections between the CPI, SDGs and the New Urban Agenda. 
   - Assisted the Wuhan team to understand the definition, standardization, and calculation of CPI indicators and spatial indicators technically, revised SDGs indicators metadata, including land consumption rate, land allocated to the street, housing affordability.
 
+
 **Development Engineer, WLSP, China**，5/2014-6/2017
+
 **1.Advanced Spatial Analysis of Urban Buildings** (http://tdjg.wlsp.org.cn)
-This program focuses on exploring the distributions and interactions between buildings, populations, public facilities, and urban planning to assist the city decision-makers to improve housing affordability and public facility allocation. 
+
+This program focuses on exploring the distributions and interactions between buildings, populations, public facilities, and urban planning to assist the city decision-makers to improve housing affordability and public facility allocation.
+
 **Key achievements:**
 * Built up data models to analyze the spatial distribution of 286,844 buildings in Wuhan, and identify the unbalanced areas of planning and practical buildings.   
 * Applied spatial data analysis and spatial statistics to explore and visualize trends and relationships between buildings, populations, transportation, and public facilities.
