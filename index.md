@@ -50,20 +50,20 @@ layout: default
 
 **Development Engineer, WLSP, China**, 5/2014-6/2017
 
-**1. Advanced Spatial Analysis of Urban Buildings** [http://tdjg.wlsp.org.cn](http://tdjg.wlsp.org.cn "http://tdjg.wlsp.org.cn")
+**1. Advanced Spatial Analysis of Urban Buildings:** [http://tdjg.wlsp.org.cn](http://tdjg.wlsp.org.cn "http://tdjg.wlsp.org.cn")
    
 - Built up data models to analyze the spatial distribution of 286,844 buildings in Wuhan, and identify the unbalanced areas of planning and practical buildings. 
 - Applied spatial data analysis and spatial statistics to explore and visualize trends and relationships between buildings, populations, transportation, and public facilities.
 - Processed and aggregated 14 spatial datasets to extract indicators of density and FAR, tall building, etc., including eliminating topology errors, checking data quality, creating geoprocessing workflows, importing them into database and publishing web services.
 - Integrated data models to the land use platform and participated in the presentation.
 
- **2. Land Use Integrated Management Information System** [http://tdjg.wlsp.org.cn](http://tdjg.wlsp.org.cn "http://tdjg.wlsp.org.cn")
+ **2. Land Use Integrated Management Information System:** [http://tdjg.wlsp.org.cn](http://tdjg.wlsp.org.cn "http://tdjg.wlsp.org.cn")
  
 - Created a Five-Year Plan to upgrade the framework and redesigned its architecture and database distribution with other 10 sub-systems to boost the performance.
 - Explored the whole life cycle of land management and built up models to monitor parcel status from site selection to building authorization with use right transfer. Processed data from cadaster, urban planning, population, housing building, road and transportation, and other geographic information, including data editing, topology elimination, format conversion, coordinate transformation, and projection.
 - Programmed tools to gather open data and display, query and visualize it into maps.
 
-**3. One Map of Wuhan Econ Tech. Development Zone** [http://119.97.209.18/jkyzt/](http://119.97.209.18/jkyzt/ "http://119.97.209.18/jkyzt/")
+**3. One Map of Wuhan Econ Tech. Development Zone:** [http://119.97.209.18/jkyzt/](http://119.97.209.18/jkyzt/ "http://119.97.209.18/jkyzt/")
 - Worked on system design, wrote technical documents and presented progress.
 - Processed data and managed database for publishing various web services.
 - Studied algorithms to monitor how many approval parcels were supplied and used.
@@ -71,7 +71,7 @@ layout: default
 
 **Research Assistant, University of Michigan**, Advisor: Prof. Shuming Bao, 2/2012-8/2013
 
-   **1. Spatial Study of Religion** [http://chinadataonline.org/religionclient/](http://chinadataonline.org/religionclient/ "http://chinadataonline.org/religionclient/")
+   **1. Spatial Study of Religion:** [http://chinadataonline.org/religionclient/](http://chinadataonline.org/religionclient/ "http://chinadataonline.org/religionclient/")
    
 - Researched the methodology, data, technology, and framework with spatial thinking and intelligent analysis for Spatial Study of Religion. 
 - Classified 72, 968 officially religious sites to Christianity, Buddhism, Islamism, and Taoism on the province, prefecture, county, and township level per year, and integrated more than 100 variables from economic census and population census in China. 
@@ -94,7 +94,7 @@ layout: default
 - Researched the deformation of the panoramic map and render model by using triangle units, image pyramid, and scene switch algorithm.
 - Acquired image and deep information by navigational links to render the scene.
 
-**3. China Geo-Explorer**[http://chinageoexplorer.org/cge/index.html](http://chinageoexplorer.org/cge/index.html "http://chinageoexplorer.org/cge/index.html")
+**3. China Geo-Explorer:**[http://chinageoexplorer.org/cge/index.html](http://chinageoexplorer.org/cge/index.html "http://chinageoexplorer.org/cge/index.html")
 - Processed and aggregated grid, population and economic census data from province level to township level to extract parameters.   
 - Programmed tools to generate and parse XML files to call variables and parameters.
 - Integrated with Tianditu, OpenStreetMap, and WorldMap from Harvard University.
@@ -115,21 +115,35 @@ layout: default
 - Developed tools to add, remove, create, edit, navigate, query and render GIS data.
 
 ## [](#header-2)PUBLICATIONS 
+
 1. Shuming Bao, **Changzhen Wang**, Miao Shui. *A Spatial Study of Religion with Spatial Religion Explorer [C]*. International Conference on Geoinformatics. IEEE, 2014:1-8.
+
 2. Sai Huang, Yifeng Zhang, Xiongwu Fu, **Changzhen Wang**. *Research on Integrated Information Management System of Land Use at Big Data Age [J]*. 17th Annual Meeting of China Association for Science and Technology, 2015.
+
 3. **Changzhen Wang**, Zhu Xu, Muzi Li. *Primary Study on Recognition and Simplification of Parallel Sections in Road Networks [J]*. The science of Surveying & Mapping, 2012, 37(1):192-191.
 
 ## [](#header-2)PATENTS
+
 1. *Lifecycle and Smart Supervision Approach of Land Use based on GIS*, with Wei Chen, China Patent ZL 201510599036.0, 2017-05-10.
+
 2. *The Whole Life Cycle Decision Support System of Construction Land*, with Wei Chen, China Computer Software Copyright Registration Certificate. 2016.
+
 3. *Land Use Comprehensive Management Information System*, with Wei Chen, China Computer Software Copyright Registration Certificate. 2014.
 
-## [](#header-2)HONORS                                                                      
+## [](#header-2)HONORS   
+
 -  Excellent staff and Meritorious Newcomer of WLSP, 2015-2016
--  Second Award of **National** Land Resource Science and Technology** (for top 1%)**, 2016       
-- Second Award of Hubei Urban and Rural Planning and Design Excellence, 2015           
--  **First** Award of Excellent Graduate Student in Wuhan University, Two Times, 2010-2011      
+
+-  Second Award of **National** Land Resource Science and Technology** (for top 1%)**, 2016 
+
+- Second Award of Hubei Urban and Rural Planning and Design Excellence, 2015 
+
+-  **First** Award of Excellent Graduate Student in Wuhan University, Two Times, 2010-2011 
+
 -  Exam Exempted Postgraduate Student of Wuhan University **(for top 1%)**, 2010
--  Excellent Undergraduate Student of Southwest Jiaotong University **(for top 1%)**, 2010       
--  National Endeavor Scholarship, Three Times **(for top 1%)**, 2007-2010 
+
+-  Excellent Undergraduate Student of Southwest Jiaotong University **(for top 1%)**, 2010
+
+-  National Endeavor Scholarship, Three Times **(for top 1%)**, 2007-2010
+
 -  Special Grade Scholarship, One time, First Prize Scholarship, Six Times, 2006-2010
