@@ -43,6 +43,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## [](#header-2)Experience
 **Consultant, RCDB, UN-Habitat**, Supervisor: Eduardo Lopez Moreno, 6/2017-9/2017
 * **Wuhan City Prosperity Initiative (Wuhan CPI)** (http://cpi.unhabitat.org/) 
+
 This program aims to measure and monitor sustainable urban development spatially and comparably for city authorities to identify opportunities and potential areas of intervention from six dimensions: productivity, infrastructure development, quality of life, equity and social inclusion, environmental sustainability, urban governance and legislation.
 **Key achievements**:
 * Interpreted 61 indicators to adapt Chinese context and collected about 85% data.
