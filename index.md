@@ -8,13 +8,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 ## [](#header-2)Education
-University of Michigan - Ann Arbor, USA, 2012-2013
+> University of Michigan - Ann Arbor, USA, 2012-2013
 * Joint Training Graduate Student with Wuhan University
 
-Wuhan University, LIESMARS, China, 2010-2013 
+> Wuhan University, LIESMARS, China, 2010-2013 
 * M.Eng. in Cartography and Geographic Information Engineering (GPA: 8.41/10; Top 5%)
 
-Southwest Jiaotong University (SWJTU), Chengdu, China, 2006-2010                              
+> Southwest Jiaotong University (SWJTU), Chengdu, China, 2006-2010                              
 * B.S. in Geographic Information System (GPA: 3.64/4.0; Ranking: 1/28)                
 
 ## [](#header-2)Research Interests
@@ -40,7 +40,7 @@ Southwest Jiaotong University (SWJTU), Chengdu, China, 2006-2010
 *	Rich knowledge of Open Source Software - OpenLayers, GeoServer, and uDig.
 
 
-## [](#header-2)Header 2
+## [](#header-2)Experience
 
 > This is a blockquote following a header.
 >
