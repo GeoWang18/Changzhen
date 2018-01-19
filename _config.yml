@@ -1,5 +1,9 @@
 title: Changzhen Wang (王长珍)
 description: I'm looking for PhD position related to GIS
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  home_url: https://smartwang18.github.io/Changzhen/
+  project_url: https://smartwang18.github.io/Changzhen/projects
+  cv_url: https://smartwang18.github.io/Changzhen/publication
