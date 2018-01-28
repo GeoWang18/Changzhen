@@ -57,7 +57,7 @@ Below are some case studies from my master thesis.
 ![](https://github.com/SmartWang18/Changzhen/blob/master/img/ChristianityBuddhism.png)
 > The number of Christianity and Buddhism sites in Mainland China, 2004
 
-![](https://github.com/SmartWang18/Changzhen/blob/master/img/GlobalMoranI.png)
+![](https://raw.githubusercontent.com/SmartWang18/Changzhen/master/img/GlobalMoranI.png)
 > Apply Global Moran's I to detect whether Christianity affected Buddhism or not
 
 ![](https://github.com/SmartWang18/Changzhen/blob/master/img/GlobalMoran2.png)
