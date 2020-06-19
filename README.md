@@ -1,3 +1,3 @@
-Changzhen Wang
+Jenny Wang
 
-This website shows Changzhen Wang personal experience and projects. 
+This website shows Jenny Wang personal experience and projects. 
